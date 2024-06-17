@@ -17,4 +17,4 @@ pip install pygame
 **Gameplay** [youtube](https://youtu.be/3_bYqIw04DQ)
 
 
-![](https://github.com/taphasin/gamedev/blob/main/Infographics/game%20info.png)
+![](https://github.com/taphasin/gamedev/blob/main/Infographics/Dang%20dang.png)
