@@ -200,9 +200,9 @@ def game_intro():
                 
         gameDisplay.fill(white)
 
-        font = pygame.font.Font('../Release/font/Minecraft.ttf', 15)
-        credit = font.render("65010710 phasin muangmaiprae", True, black)
-        gameDisplay.blit(credit,(80,10))
+        # font = pygame.font.Font('../Release/font/Minecraft.ttf', 15)
+        # credit = font.render("65010710 phasin muangmaiprae", True, black)
+        # gameDisplay.blit(credit,(80,10))
 
         TextSurf, TextRect = text_objects("Name:", smallText, black)
         TextRect.center = (200),(550)
